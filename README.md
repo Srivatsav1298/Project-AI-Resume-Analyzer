@@ -44,9 +44,3 @@ This project is built using the following technologies:
 - 🧠 **AI**: Puter’s AI (GPT-based evaluation)
 - 🗃 **Storage**: Puter FS (browser-based cloud file system)
 - 🔐 **Auth**: Puter serverless authentication
-
----
-
-## 🚀 Get Started (Coming Soon)
-
-Instructions on how to install, run, and contribute to this project will be added soon.
