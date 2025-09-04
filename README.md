@@ -20,8 +20,6 @@ Key features include:
 
 All built with modern web technologies and a clean, component-driven UI.
 
-> Ideal for **beginners and intermediate developers** interested in learning full-stack (but serverless) app development using tools like **React**, **TypeScript**, and **Vite**.
-
 ---
 
 ## ⚙️ Tech Stack
